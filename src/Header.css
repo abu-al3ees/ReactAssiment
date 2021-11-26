@@ -1,0 +1,16 @@
+header{
+    height: 75px;
+    text-align: center;
+}
+header button{
+    background-color: rgb(104, 187, 118);
+    margin: 50px auto;
+    width: 150px;
+}
+
+.login{
+    /* margin-left: 77rem;
+    height: 64px;
+    margin-top: 5px; */
+
+}
