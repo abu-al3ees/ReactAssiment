@@ -1,4 +1,4 @@
-# first move the sever file out side myapp then do this below
+# first move the-->  Server file   <--- outside myapp then do this below
 
 
 ## first run the server by --> npm run auth 
